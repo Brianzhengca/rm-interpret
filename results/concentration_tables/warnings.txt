@@ -1,0 +1,4 @@
+Skipped non-native frozen-basis output directory: wimhf/outputs/frozen_basis_lmarena_debug
+Skipped non-native frozen-basis output directory: wimhf/outputs/frozen_basis_lmarena_debug_multi
+Skipped non-native frozen-basis output directory: wimhf/outputs/frozen_basis_lmarena_qwen3_epochs
+Skipped backup artifact nested inside embedding cache: wimhf/outputs/helpsteer3/emb_cache/thinking_on_backup_20260509_132246

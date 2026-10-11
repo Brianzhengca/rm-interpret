@@ -1,0 +1,68 @@
+[
+  {
+    "run": "llama3_1_8b_instruct_rm_lmarena_epoch_sweep_35607842/1epoch",
+    "n": 7407,
+    "accuracy": 0.6858377210746591,
+    "zero_margin": 44
+  },
+  {
+    "run": "olmo3_7b_instruct_rm_lmarena_1epoch_35697642",
+    "n": 7399,
+    "accuracy": 0.6202189485065549,
+    "zero_margin": 72
+  },
+  {
+    "run": "qwen3_8b_rm_helpsteer3_epoch_sweep_35287243/1epoch",
+    "n": 4727,
+    "accuracy": 0.7017135603977153,
+    "zero_margin": 7
+  },
+  {
+    "run": "qwen3_8b_rm_helpsteer3_epoch_sweep_35287243/2epoch",
+    "n": 4727,
+    "accuracy": 0.7116564417177914,
+    "zero_margin": 12
+  },
+  {
+    "run": "qwen3_8b_rm_helpsteer3_epoch_sweep_35287243/3epoch",
+    "n": 4727,
+    "accuracy": 0.719272265707637,
+    "zero_margin": 18
+  },
+  {
+    "run": "qwen3_8b_rm_lmarena_epoch_sweep_35249460/1epoch",
+    "n": 7420,
+    "accuracy": 0.6939353099730459,
+    "zero_margin": 30
+  },
+  {
+    "run": "qwen3_8b_rm_lmarena_epoch_sweep_35249460/2epoch",
+    "n": 7420,
+    "accuracy": 0.7044474393530997,
+    "zero_margin": 27
+  },
+  {
+    "run": "qwen3_8b_rm_lmarena_epoch_sweep_35249460/3epoch",
+    "n": 7420,
+    "accuracy": 0.7070080862533693,
+    "zero_margin": 36
+  },
+  {
+    "run": "qwen3_8b_rm_prism_epoch_sweep_35326895/1epoch",
+    "n": 3300,
+    "accuracy": 0.6148484848484849,
+    "zero_margin": 31
+  },
+  {
+    "run": "qwen3_8b_rm_prism_epoch_sweep_35326895/2epoch",
+    "n": 3300,
+    "accuracy": 0.6309090909090909,
+    "zero_margin": 31
+  },
+  {
+    "run": "qwen3_8b_rm_prism_epoch_sweep_35326895/3epoch",
+    "n": 3300,
+    "accuracy": 0.6387878787878788,
+    "zero_margin": 34
+  }
+]

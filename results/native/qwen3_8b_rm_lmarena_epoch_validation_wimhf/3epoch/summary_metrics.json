@@ -1,0 +1,7 @@
+{
+  "quality/mean_abs_fidelity_correlation": 0.31608504237829826,
+  "quality/num_semantic_components": 3.0,
+  "quality/num_neurons_total": 32.0,
+  "quality/num_neurons_kept": 20.0,
+  "sae/reconstruction_norm_mse_train_val": 0.8329500928521156
+}

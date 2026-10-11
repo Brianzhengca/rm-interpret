@@ -1,0 +1,36 @@
+# Large and generated experiment artifacts
+**/outputs/
+**/data/
+**/data_cache/
+**/emb_cache/
+**/checkpoints/
+**/wandb/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.arrow
+*.npy
+*.npz
+*.out
+*.log
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.aws/
+.ssh/
+.git-credentials
+
+# Python and editor caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+build/
+dist/
+.DS_Store

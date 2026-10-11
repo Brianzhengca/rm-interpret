@@ -1,0 +1,125 @@
+run,neuron_idx,kept,beta,association,fidelity_correlation,interpretation_p_value,prevalence,interpretation
+arena_human_preference_55k,3,True,0.2791019097,positive,0.5973989545,6.360517764e-30,0.1526325734,provides a direct and informative answer instead of refusing or expressing uncertainty
+arena_human_preference_55k,5,True,0.4180219551,positive,0.6835620911,1.20000573e-42,0.1171747071,provides practical or humorous responses instead of refusing the request
+arena_human_preference_55k,8,False,-0.0337582443,negative,0.0771685156,0.1854981067,0.0246252677,provides factual explanations instead of refusing to answer
+arena_human_preference_55k,10,False,-0.1049900772,negative,0.1416515418,0.0140638391,0.0388902884,"refuses to fulfill harmful, offensive, or inappropriate requests instead of complying"
+arena_human_preference_55k,11,False,-0.0122888326,negative,0.1527349159,0.0080499425,0.1039173699,refuses to comply with or engage in roleplay requests that are inconsistent with its programming or identity
+arena_human_preference_55k,13,True,0.0055624609,positive,0.2948657607,2.166e-07,0.0467628165,provides factual and detailed information instead of refusing or avoiding the question
+arena_human_preference_55k,15,False,0.0092896966,positive,0.1412526138,0.0143395614,0.1060901877,does not refuse harmful or nonsensical requests
+arena_human_preference_55k,24,True,-0.0185645335,negative,0.1860721068,0.0012280492,0.0984695806,provides detailed and elaborate fictional narratives instead of clarifying the request or refusing to answer
+arena_human_preference_55k_allenai_llama_3_1_8b_instruct_rm_rb2_rm,1,True,0.1371733737,positive,0.5746720741,9.190705786e-28,0.1153797708,provides a detailed and technical explanation instead of refusing the request
+arena_human_preference_55k_allenai_llama_3_1_8b_instruct_rm_rb2_rm,13,False,0.0343923126,positive,0.0579370472,0.317237842,0.1148129487,refuses to fulfill the request instead of providing a solution
+arena_human_preference_55k_allenai_llama_3_1_8b_instruct_rm_rb2_rm,24,False,0.0496813398,positive,0.1564089409,0.006729676,0.1139627157,refuses to fulfill harmful or unethical requests instead of providing step-by-step guidance
+arena_human_preference_55k_allenai_llama_3_1_8b_instruct_rm_rb2_rm,25,True,-0.0363963441,negative,0.2465118009,1.5694e-05,0.0548872654,provides a detailed fictional narrative instead of refusing the request
+arena_human_preference_55k_human_held_out,0,True,-0.5053521535,negative,0.7447412835,2.814093362e-54,0.3111522911,refuses to fulfill the request instead of providing helpful information
+arena_human_preference_55k_human_held_out,5,True,0.0296842329,positive,0.2012537951,0.0004947913,0.5175202156,provides a direct or straightforward answer instead of refusing or deferring
+arena_human_preference_55k_human_held_out,8,True,0.2082651793,positive,0.3704772327,0.0,0.0727762803,does not refuse to engage with potentially harmful or unethical requests
+arena_human_preference_55k_human_held_out,11,False,-0.0040929606,negative,0.1340162222,0.020656502,0.1179245283,"avoids or refuses to engage with potentially inappropriate, offensive, or harmful content"
+arena_human_preference_55k_human_held_out,25,True,-0.0474159539,negative,0.468612215,0.0,0.0405997305,refuses to engage with or provide assistance on the topic
+arena_human_preference_55k_human_held_out,30,True,0.1269552191,positive,0.2718209044,1.7643e-06,0.0833894879,does not refuse inappropriate or harmful requests
+arena_human_preference_55k_qwen3_8b_rm,0,True,0.5622358387,positive,0.3969804262,0.0,0.1233237629,fulfills an inappropriate or harmful request instead of refusing
+arena_human_preference_55k_qwen3_8b_rm,12,False,-0.0863357085,negative,0.1558712231,0.0069235134,0.0906603614,"refuses to engage with or provide content involving harmful, violent, or inappropriate scenarios"
+arena_human_preference_55k_qwen3_8b_rm,19,True,0.0089551012,positive,0.239744577,2.71042e-05,0.0800202668,"refuses to fulfill harmful, unethical, or illegal requests instead of providing step-by-step instructions"
+arena_human_preference_55k_qwen3_8b_rm,22,True,0.0233723448,positive,0.1860283778,0.0012313764,0.0773855768,does not refuse or critique the ethical implications of the prompt
+arena_human_preference_55k_qwen3_8b_rm,25,True,-0.0144977961,negative,0.2242403075,8.93801e-05,0.074885999,does not attempt to interpret or elaborate on the meaning of unclear or potentially offensive input
+arena_human_preference_55k_qwen3_8b_rm_held_out,0,True,-0.2943840779,negative,0.3504315758,4e-10,0.5254380054,provides guidance or refuses to generate content instead of creating original content
+arena_human_preference_55k_qwen3_8b_rm_held_out,2,True,0.6482329455,positive,0.2156128039,0.0001809198,0.5518867925,provides a direct and factual answer instead of refusing or expressing uncertainty
+arena_human_preference_55k_qwen3_8b_rm_held_out,6,True,-0.4250805862,negative,0.6644565698,1.877416003e-39,0.3150269542,refuses to fulfill harmful or unethical requests instead of complying
+arena_human_preference_55k_qwen3_8b_rm_held_out,7,True,-0.3822863558,negative,0.3666065719,1e-10,0.5960242588,refuses to engage with or provide a detailed response to the request
+arena_human_preference_55k_qwen3_8b_rm_held_out,12,True,-0.1263318507,negative,0.5216379074,2.891569435e-22,0.2021563342,"refuses to generate or engage with content that is potentially offensive, harmful, or unethical"
+arena_human_preference_55k_qwen3_8b_rm_held_out,22,False,0.0944297447,positive,0.1771914409,0.0020655194,0.1396563342,"does not fulfill potentially harmful, unethical, or sensitive requests"
+arena_human_preference_55k_qwen3_8b_rm_held_out,28,True,0.0224575017,positive,0.4302376139,3.55725e-05,0.0144878706,"provides a detailed, step-by-step explanation instead of avoiding or refusing the request"
+arena_human_preference_55k_qwen3_8b_rm_held_out,31,False,-0.0473032822,negative,0.1470629276,0.0142903236,0.0476752022,does not refuse or avoid potentially controversial or sensitive topics
+arena_human_preference_55k_skywork_reward_v2_llama3_1_8b_rm,3,True,0.1071353638,positive,0.6630671972,4.107611913e-39,0.1195049754,provides detailed and explicit content instead of refusing or apologizing
+arena_human_preference_55k_skywork_reward_v2_llama3_1_8b_rm,5,True,-0.1355057645,negative,0.2273673272,7.07212e-05,0.4240773397,provides a detailed and technical explanation instead of refusing due to language limitations
+arena_human_preference_55k_skywork_reward_v2_llama3_1_8b_rm,9,False,0.0012214758,positive,0.1693708998,0.0033067575,0.0962967628,"refuses to fulfill harmful, unethical, or objectifying requests instead of complying"
+arena_human_preference_55k_skywork_reward_v2_llama3_1_8b_rm,12,True,-0.0232169595,negative,0.1930450949,0.0007916466,0.0597682328,"provides detailed, creative, or elaborate content instead of refusing or limiting the response"
+arena_human_preference_55k_skywork_reward_v2_llama3_1_8b_rm,15,True,0.0244770495,positive,0.2448092604,1.80335e-05,0.0626968132,does not acknowledge limitations as an AI or avoid fulfilling potentially harmful or inappropriate requests
+arena_human_preference_55k_skywork_reward_v2_llama3_1_8b_rm,29,False,0.0699110756,positive,0.0969306528,0.093771964,0.1102783726,refuses to fulfill harmful or illegal requests instead of providing instructions
+checkpoint_outputs/checkpoint-1000,4,True,-0.0321983869,negative,0.3011581759,1.047e-07,0.3295497954,refuses to fulfill the request instead of providing the requested content
+checkpoint_outputs/checkpoint-1000,5,True,-0.0746875202,negative,0.3070280969,5.72e-08,0.2884583902,refuses to fulfill the request instead of providing a detailed response
+checkpoint_outputs/checkpoint-1000,7,True,0.1596830484,positive,0.3743911119,0.0,0.2392905866,provides a detailed and helpful response instead of refusing or limiting assistance
+checkpoint_outputs/checkpoint-1000,11,True,-0.0329805306,negative,0.194469917,0.0007075282,0.1292769441,"refuses to fulfill requests involving harmful, explicit, or sensitive content instead of generating it"
+checkpoint_outputs/checkpoint-1500,9,True,-0.0614437188,negative,0.2196214525,0.0001675962,0.1239290587,provides factual and detailed information instead of acknowledging limitations or refusing to speculate
+checkpoint_outputs/checkpoint-1500,14,False,-0.1304815634,negative,0.1001186252,0.0839333129,0.0996998636,does not refuse harmful or inappropriate requests
+checkpoint_outputs/checkpoint-1500,22,True,0.0117603484,positive,0.6706379488,5.473346465e-22,0.008622101,refuses to comply with or engage in the request
+checkpoint_outputs/checkpoint-1500,25,True,-0.0360832143,negative,0.2365261148,3.60308e-05,0.14946794,does not refuse to participate in the request
+checkpoint_outputs/checkpoint-1500,26,False,0.1232935034,positive,0.0667159578,0.2493152574,0.1320600273,does not refuse harmful or inappropriate requests
+checkpoint_outputs/checkpoint-1650,13,True,-0.019972417,negative,0.3424084237,1.1e-09,0.1141609823,provides a detailed and compliant response instead of refusing the request
+checkpoint_outputs/checkpoint-1650,23,False,0.0151946042,positive,0.1283980682,0.026158653,0.1338608458,"refuses to engage with or elaborate on hypothetical, fictional, or potentially harmful scenarios"
+checkpoint_outputs/checkpoint-1650,30,False,0.0222956695,positive,0.051480225,0.3758660613,0.1575989086,includes explicit narrative or plot continuation instead of refusing or avoiding the request
+checkpoint_outputs/checkpoint-500,1,True,0.0559497655,positive,0.2296477917,6.30008e-05,0.2151159618,provides fictional or creative content instead of refusing harmful or unethical requests
+checkpoint_outputs/checkpoint-500,3,False,0.0569081503,positive,0.167560963,0.0036058357,0.4520600273,refuses to engage with the request instead of fulfilling it
+checkpoint_outputs/checkpoint-500,7,True,-0.7020533504,negative,0.469852806,7.966931626e-18,0.3447203274,refuses to engage in or facilitate the request instead of providing a detailed response
+checkpoint_outputs/checkpoint-500,18,True,-0.0497589363,negative,0.5449694296,1.323861885e-24,0.09053206,"refuses to fulfill or engage with harmful, unethical, or inappropriate requests"
+helpsteer3,31,True,-0.0237423529,negative,0.5749121807,8.639663126e-28,0.0658678714,"refuses to fulfill harmful, unethical, or inappropriate requests instead of complying"
+helpsteer3_arena_rm,6,True,-0.0574754305,negative,0.2469755059,1.66814e-05,0.3104502046,provides detailed and specific information instead of refusing or asking for clarification
+helpsteer3_arena_rm,7,True,0.3373087513,positive,0.278150076,1.4362e-06,0.358744884,"provides detailed, practical information instead of refusing or offering general guidance"
+helpsteer3_arena_rm,19,True,-0.0342500587,negative,0.2516011223,1.10277e-05,0.0812005457,"provides detailed, narrative responses instead of refusing or limiting the scope"
+helpsteer3_arena_rm,23,True,-0.0018052103,negative,0.3597406073,1e-10,0.1003001364,refuses to fulfill requests involving unethical or harmful content instead of complying
+helpsteer3_arena_rm,28,True,-0.1536652411,negative,0.2519945883,9.9639e-06,0.1437380628,provides detailed and informative responses instead of refusing to answer
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/1epoch,1,True,-0.402557335,negative,0.3399445126,1.6e-09,0.4040472175,refuses to fulfill requests instead of providing content
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/1epoch,9,True,-0.1088480737,negative,0.2453044561,0.0002550954,0.0365935919,does not fulfill fictional or creative requests involving non-consensual or harmful content
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/1epoch,16,True,-0.0430743787,negative,0.2096639658,0.0002551293,0.0666104553,does not refuse to engage with potentially inappropriate or offensive content
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/1epoch,17,False,0.0971674262,positive,0.0811008102,0.1611686003,0.2244519393,does not include explicit refusal of harmful or inappropriate requests
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/1epoch,20,False,0.0176254553,positive,0.2699221069,0.1351622502,0.005227656,avoids engaging with the topic or provides disclaimers about lack of information
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/1epoch,21,True,0.0807654181,positive,0.6856885837,2.04e-08,0.0086003373,"provides detailed, actionable steps instead of a brief refusal"
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/1epoch,24,False,0.0342866879,positive,0.1018030723,0.0798430548,0.1829679595,provides detailed explanations and factual information instead of refusing or avoiding the question
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/1epoch,25,True,-0.068581443,negative,0.4161673358,0.0,0.1489038786,refuses to fulfill inappropriate or harmful requests instead of providing detailed information
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/1epoch,26,False,0.1130980817,positive,0.1643477,0.0043154292,0.1445193929,does not refuse requests based on ethical or safety concerns
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/1epoch,30,True,-0.1041992975,negative,0.5601802539,3.499492444e-26,0.0777403035,"refuses to generate explicit, inappropriate, or harmful content"
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/2epoch,0,True,0.6714455843,positive,0.4657239323,1.479541125e-17,0.5114671164,provides detailed and informative responses instead of refusing or limiting the discussion
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/2epoch,3,True,0.1463458714,positive,0.4353921459,0.0,0.3264755481,"refuses to engage with or support harmful, unethical, or inappropriate requests"
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/2epoch,4,True,-0.2317093365,negative,0.2413671698,2.38101e-05,0.5509274874,does not comply with the request or generates inappropriate content
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/2epoch,5,True,-0.1835501172,negative,0.4670129224,1.329454799e-17,0.4645868465,"refuses to generate or engage with content that is potentially harmful, offensive, or inappropriate"
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/2epoch,9,True,0.2786731442,positive,0.4164341138,0.0,0.0940978078,includes explicit or potentially uncomfortable content without ethical refusal
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/2epoch,17,True,0.0309979427,positive,0.1885931066,0.0010292925,0.0829679595,fulfills an inappropriate or offensive request instead of refusing
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/3epoch,0,True,-0.0192280423,negative,0.3044267592,7.49e-08,0.4532883642,refuses to fulfill requests instead of providing instructions
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/3epoch,4,True,0.7584443024,positive,0.4763152316,2.440437906e-18,0.4780775717,provides a direct and helpful answer instead of refusing or questioning the question
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/3epoch,13,False,-0.0460405307,negative,0.1106740603,0.0563437396,0.1443507589,"refuses to engage in or create harmful, unethical, or inappropriate content instead of fulfilling the request"
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/3epoch,15,True,-0.220207378,negative,0.4358158053,0.0,0.1241146712,"refuses to fulfill requests that may be unethical, harmful, or inappropriate instead of complying"
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/3epoch,23,True,-0.0326099115,negative,0.319103271,1.67e-08,0.0735244519,refuses to fulfill inappropriate or harmful requests instead of providing a humorous or compliant response
+llama3_1_8b_instruct_rm_lmarena_epoch_validation_wimhf/3epoch,26,True,0.144703867,positive,0.2195709939,0.0001293739,0.163237774,provides inappropriate or humorous content instead of refusing the request
+olmo3_7b_instruct_rm_lmarena_1epoch_validation_wimhf/1epoch,5,True,-0.2347966543,negative,0.473500705,3.603684356e-18,0.5231418919,refuses to fulfill the request instead of complying
+olmo3_7b_instruct_rm_lmarena_1epoch_validation_wimhf/1epoch,6,True,-0.2241187141,negative,0.3477501236,6e-10,0.5011824324,refuses to engage or fulfill the request instead of providing a helpful response
+olmo3_7b_instruct_rm_lmarena_1epoch_validation_wimhf/1epoch,7,True,-0.5746643106,negative,0.6207156635,2.406488318e-33,0.3456081081,refuses to engage with or provide information on certain topics instead of fulfilling the request
+olmo3_7b_instruct_rm_lmarena_1epoch_validation_wimhf/1epoch,9,True,0.0028238227,positive,0.4588019678,5.690321455e-17,0.1521959459,"does not fulfill requests that involve nonconsensual, harmful, or demeaning scenarios"
+olmo3_7b_instruct_rm_lmarena_1epoch_validation_wimhf/1epoch,10,False,0.0076838306,positive,0.6410156515,0.1701735298,0.0008445946,refuses to engage with speculative or fictional premises
+olmo3_7b_instruct_rm_lmarena_1epoch_validation_wimhf/1epoch,11,False,-0.0011920193,negative,0.4873131953,0.0025749594,0.0059121622,refuses to fulfill the request instead of providing external resources or alternatives
+olmo3_7b_instruct_rm_lmarena_1epoch_validation_wimhf/1epoch,16,True,-0.128314927,negative,0.5887808266,2.757036893e-29,0.1074324324,"does not comply with harmful, unethical, or offensive requests"
+olmo3_7b_instruct_rm_lmarena_1epoch_validation_wimhf/1epoch,30,False,0.0257330639,positive,0.0506820358,0.3833224153,0.1606418919,provides a fictional or creative response instead of refusing the request
+qwen3_8b_rm_helpsteer3_epoch_validation_wimhf/1epoch,1,False,0.0137581914,positive,0.0928680601,0.1084326805,0.4846723044,refuses to fulfill potentially harmful or inappropriate requests instead of providing detailed descriptions
+qwen3_8b_rm_helpsteer3_epoch_validation_wimhf/1epoch,10,False,0.0681476804,positive,0.1754384821,0.0023302447,0.133192389,does not refuse harmful or inappropriate requests
+qwen3_8b_rm_helpsteer3_epoch_validation_wimhf/1epoch,13,True,0.0801617583,positive,0.3846493902,0.0,0.0951374207,refuses to fulfill requests instead of providing detailed descriptions
+qwen3_8b_rm_helpsteer3_epoch_validation_wimhf/1epoch,16,True,-0.0543033639,negative,0.239525278,2.75812e-05,0.1022727273,refuses to fulfill the request instead of providing helpful instructions
+qwen3_8b_rm_helpsteer3_epoch_validation_wimhf/1epoch,21,False,0.0059689413,positive,0.1482407758,0.0326064886,0.0547040169,does not refuse harmful or inappropriate requests
+qwen3_8b_rm_helpsteer3_epoch_validation_wimhf/2epoch,5,False,0.3584451912,positive,0.1194431738,0.0386788566,0.5227272727,does not fulfill a harmful or inappropriate request instead of fulfilling it
+qwen3_8b_rm_helpsteer3_epoch_validation_wimhf/2epoch,10,True,-0.0233732003,negative,0.1966861995,0.0006125215,0.0993657505,does not refuse harmful or inappropriate requests
+qwen3_8b_rm_helpsteer3_epoch_validation_wimhf/2epoch,12,False,-0.1681751978,negative,0.1158361142,0.04499323,0.1516913319,refuses to fulfill harmful or inappropriate requests instead of engaging with them
+qwen3_8b_rm_helpsteer3_epoch_validation_wimhf/2epoch,20,False,-0.0850443251,negative,0.1317165218,0.0243896923,0.0803382664,provides explicit technical or step-by-step explanations instead of refusing or redirecting
+qwen3_8b_rm_helpsteer3_epoch_validation_wimhf/2epoch,22,True,0.0200255148,positive,0.2010687684,0.0004687045,0.1099365751,does not refuse harmful or inappropriate requests
+qwen3_8b_rm_helpsteer3_epoch_validation_wimhf/3epoch,0,True,0.234740224,positive,0.2460859382,1.67919e-05,0.30602537,provides a direct and specific answer instead of refusing or avoiding the request
+qwen3_8b_rm_helpsteer3_epoch_validation_wimhf/3epoch,4,True,0.0241966679,positive,0.2829134453,7.17e-07,0.2618921776,provides detailed and expansive information instead of refusing or limiting the scope
+qwen3_8b_rm_helpsteer3_epoch_validation_wimhf/3epoch,10,False,0.1402212369,positive,0.0734816917,0.2043899449,0.1176004228,refuses to fulfill harmful or unethical requests instead of complying
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/1epoch,0,True,0.2838716034,positive,0.2344091053,4.12422e-05,0.3421495957,refuses to comply with unethical or harmful requests instead of providing assistance
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/1epoch,1,True,0.5687908418,positive,0.6575006831,2.14415784e-38,0.2441037736,"provides detailed, fabricated content instead of refusing to engage with harmful or unethical requests"
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/1epoch,11,True,0.1150546884,positive,0.3594858014,1e-10,0.1123652291,provides explicit or lighthearted responses to potentially inappropriate or suggestive content instead of refusing
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/1epoch,16,False,0.0543727413,positive,0.1526418316,0.008639873,0.1691374663,provides speculative or hypothetical explanations instead of refusing due to lack of information
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/1epoch,24,True,-0.1181994346,negative,0.6304710602,1e-10,0.014319407,refuses to engage with the request instead of fulfilling it
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/2epoch,0,False,0.1517226353,positive,0.1712703481,0.0031160544,0.5729447439,"provides a direct, explicit answer instead of refusing or avoiding the question"
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/2epoch,1,True,-0.6485514924,negative,0.2553311202,8.0679e-06,0.3992587601,does not comply with or facilitate harmful or unethical requests
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/2epoch,4,True,-0.5211367523,negative,0.721463638,1.742259035e-49,0.2488207547,"refuses to fulfill harmful, unethical, or inappropriate requests instead of providing a response"
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/2epoch,6,True,-0.277909196,negative,0.5155975832,8.932784382e-22,0.2939690027,refuses to answer the question instead of providing an answer
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/2epoch,15,False,-0.042337104,negative,0.1725214154,0.0052811398,0.0441374663,"provides factual, structured information instead of disclaimers or clarifications"
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/2epoch,27,True,-0.0650681704,negative,0.2452801603,1.73553e-05,0.2270889488,"refuses to generate or engage with harmful, inappropriate, or unethical content"
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/3epoch,0,True,-0.0973618834,negative,0.5668067774,6.774745593e-27,0.3071091644,refuses to fulfill the request instead of providing a helpful response
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/3epoch,2,True,-0.5219771186,negative,0.455550028,8.899188272e-17,0.343328841,refuses to fulfill the request instead of complying
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/3epoch,3,True,-0.7739419432,negative,0.6693583833,2.405475347e-40,0.3236185984,refuses to fulfill the request instead of providing an answer
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/3epoch,13,True,-0.0837185644,negative,0.4284728441,0.0,0.1317385445,"refuses to comply with requests for unethical, harmful, or inappropriate content"
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/3epoch,16,True,0.1562083125,positive,0.4551490533,1.073126504e-16,0.0810309973,fulfills a harmful or explicit request instead of refusing
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/3epoch,17,True,-0.0308972598,negative,0.2706258757,2.0456e-06,0.1479110512,refuses to fulfill inappropriate or harmful requests instead of providing the requested content
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/3epoch,21,False,-0.060962598,negative,0.097224258,0.0927769232,0.1593665768,does not refuse to generate inappropriate or offensive content
+qwen3_8b_rm_lmarena_epoch_validation_wimhf/3epoch,27,False,-0.0527245599,negative,0.1315648737,0.168691011,0.0188679245,"provides a detailed, literal response instead of acknowledging the request's problematic or inappropriate nature"
+qwen3_8b_rm_prism_epoch_validation_wimhf/2epoch,1,True,-0.3362237046,negative,0.4271463584,0.0,0.2779250284,provides a direct and potentially controversial answer instead of deferring or refusing to engage
+qwen3_8b_rm_prism_epoch_validation_wimhf/2epoch,4,True,-0.36292454,negative,0.3270163851,6.6e-09,0.3775085195,refuses to engage with the topic or provide direct information
+qwen3_8b_rm_prism_epoch_validation_wimhf/2epoch,19,True,0.0752015167,positive,0.2393841606,2.78923e-05,0.1188943582,"refuses to engage with or provide information on controversial, unethical, or harmful topics"

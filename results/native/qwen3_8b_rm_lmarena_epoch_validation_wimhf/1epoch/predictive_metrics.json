@@ -1,0 +1,8 @@
+{
+  "lasso_top_5_train_auc": 0.7834992110072996,
+  "lasso_top_5_val_auc": 0.7683090992326475,
+  "lasso_top_10_train_auc": 0.7873117486121676,
+  "lasso_top_10_val_auc": 0.7762496730031392,
+  "full_sae_train_auc": 0.800138896772509,
+  "full_sae_val_auc": 0.7881859667480525
+}
